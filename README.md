@@ -9,3 +9,7 @@ WORDINATOR API
 
       which will return a json response: {"word_1":"slate","word_2":"tales","anagram":true}
       this shows the words sent and a true or false response if they are anagrams
+
+#contrubitors:
+
+  refrenced Mary Dicksons Wordinator API available here: https://github.com/marythought/wordinator/tree/master/app
